@@ -4,8 +4,8 @@
 <a href="https://linkedin.com/in/useflame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="useflame" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/useflame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="useflame" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/useflame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="useflame" height="30" width="40" /></a>
-<a href="https://t.me/useflame" target="blank"><img align="center" src="./icons/telegram.svg" alt="useflame" height="30" width="40" /></a>
-<a href="mailto:useflame@gmail.com" target="blank"><img align="center" src="./icons/mail.svg" alt="useflame" height="30" width="40" /></a>
+<a href="https://t.me/useflame" target="blank"><img align="center" src="https://raw.githubusercontent.com/useflame/useflame/master/icons/telegram.svg" alt="useflame" height="30" width="30" /></a>
+<a href="mailto:useflame@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/useflame/useflame/master/icons/mail.svg" alt="useflame" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
